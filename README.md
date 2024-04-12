@@ -73,13 +73,13 @@ Go to your [staff list in Xero Practice Manager](https://practicemanager.xero.co
 
 At this stage you will be prompted to log in to Xero.
 
-![Login to Xero](images/5_3_askedToLogin.PNG)
+![Login to Xero](images/asked_to_login.png)
 
 You'll be taken through to the account Select window. Select the account you want to connect to. If you want to connect to more than one account, you can repeat the steps above and select another account.
 
 If you've included the `openid profile email` scopes, you'll also be asked to access your basic profile information.
 
-![Allow access](images/5_4_userConsent.png)
+![Allow access](images/userConsent.png)
 
 If you see a message saying you have no Xero Practice Manager accounts go back and complete step  5. "Ensure you have API Access privileges".  If you do not have a Xero Practice Manager account reach out to api@support.xero.com
 
