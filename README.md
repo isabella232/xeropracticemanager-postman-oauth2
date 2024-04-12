@@ -79,7 +79,7 @@ You'll be taken through to the account Select window. Select the account you wan
 
 If you've included the `openid profile email` scopes, you'll also be asked to access your basic profile information.
 
-![Allow access](images/userConsent.png)
+![Allow access](images/user_consent.png)
 
 If you see a message saying you have no Xero Practice Manager accounts go back and complete step  5. "Ensure you have API Access privileges".  If you do not have a Xero Practice Manager account reach out to api@support.xero.com
 
