@@ -1,4 +1,4 @@
-# Xero-Postman XPM OAuth 2.0
+# Xero Practice Manager Postman OAuth 2.0
 A Postman collection for authenticating to the XPM API using OAuth 2.0.
 
 ## Prerequisites
@@ -12,7 +12,7 @@ Click the button below and select the Desktop version of Postman (Chrome extensi
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a16fd5c4b15ff1d8a789)
 
-Alternatively, you can download the Xero OAuth2.0.postman_collection and OAuth 2.0.postman_environment JSON files above and import them via the Import button in the top left of the Postman Workplace sceen.
+Alternatively, you can download the XPM OAuth2.0.postman_collection and OAuth 2.0.postman_environment JSON files above and import them via the Import button in the top left of the Postman Workplace sceen.
 
 ### 2. Create an OAuth2 app at https://developer.xero.com/myapps
 Go to the Xero developer portal and create an OAuth2 app.
