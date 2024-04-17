@@ -10,7 +10,7 @@ Once you've passed the assessment and had the scope applied to your app follow t
 ### 1. Import the Xero OAuth 2.0 collection and Xero environment into Postman
 Click the button below and select the Desktop version of Postman (Chrome extension doesn't support environment variables). This will also install the Collection and Environment we'll be using.
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a16fd5c4b15ff1d8a789)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/15086428-9c82b511-f0ed-460a-8114-b26d67d6b923)
 
 Alternatively, you can download the XPM OAuth2.0.postman_collection and OAuth 2.0.postman_environment JSON files above and import them via the Import button in the top left of the Postman Workplace sceen.
 
